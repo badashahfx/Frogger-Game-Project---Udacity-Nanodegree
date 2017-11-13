@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+}
+
+canvas {
+	margin-top:-15px;
+}
+
+button {
+  margin: 15px 10px;
+}
+
+#game {
+	background: #000;
+	margin-top: 20px;
+}
